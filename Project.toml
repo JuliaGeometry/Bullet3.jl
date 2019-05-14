@@ -1,2 +1,7 @@
+name = "Bullet3"
+uuid = "5e831d02-149c-5a5c-acc1-4ff8be61dc33"
+version = "0.0.0"
+
 [deps]
 BinaryBuilder = "12aac903-9f7c-5d81-afc2-d9565ea332ae"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
